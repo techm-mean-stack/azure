@@ -1,1 +1,2 @@
 Sample4 test file
+Sample4 test file last line
